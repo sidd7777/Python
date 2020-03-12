@@ -1,0 +1,5 @@
+f=open("SIDDHESH.txt","a")
+f.write(" MY NAME IS SIDDHESH ")
+f.close()
+f=open("SIDDHESH.txt","r")
+print(f.read())
